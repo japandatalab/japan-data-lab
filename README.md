@@ -3,7 +3,6 @@
 This repository provides a **free sample dataset** (1 city / 1 year) to demonstrate the structure and definitions of a larger dataset that standardizes Japanese municipal statistics for analysis.
 
 ## Download
-## Download
 - Direct download (CSV): https://raw.githubusercontent.com/japandatalab/japan-data-lab/main/sample_japan_population_real_estate_risk.csv
 - Gumroad mirror: https://japandatalab.gumroad.com/l/japan-population-real-estate-sample
 
