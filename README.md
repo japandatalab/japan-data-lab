@@ -1,13 +1,19 @@
-# Japan Data Lab — Free Sample Dataset (CSV)
+# Japan Data Lab — A free sample CSV of Japan municipal demographics (1 city / 1 year), structured for analysis.
 
 This repository provides a **free sample dataset** (1 city / 1 year) to demonstrate the structure and definitions of a larger dataset that standardizes Japanese municipal statistics for analysis.
 
 ## Download
-- Gumroad (free sample): <[Download](https://japandatalab.gumroad.com/l/japan-population-real-estate-sample)>
+## Download
+- Direct download (CSV): https://raw.githubusercontent.com/japandatalab/japan-data-lab/main/sample_japan_population_real_estate_risk.csv
+- Gumroad mirror: https://japandatalab.gumroad.com/l/japan-population-real-estate-sample
+
 
 ## What’s included
 - `sample_japan_population_real_estate_risk.csv`  
   A single-row CSV sample (Niigata City, 2024) with commonly used demographic fields plus a simple risk label.
+  
+  Note: Vacancy_Risk_Index is a simple screening label (Low/Medium/High) for comparative analysis, not an investment recommendation.
+
 
 ## Columns (summary)
 - Municipality
